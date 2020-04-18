@@ -5,6 +5,7 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 
 - [Sensor de temperatura (DHT11)](https://github.com/javinair/modulos_arduino#sensor-de-temperatura-dht11)
 - [Sensor de agua](https://github.com/javinair/modulos_arduino#sensor-de-agua)
+- [Sensor de movimiento con mercurio (KY-027)](https://github.com/javinair/modulos_arduino#sensor-de-movimiento-con-mercurio-ky-027)
 
 
 
@@ -49,6 +50,26 @@ S      | Pin analógico 0 |
 
 ### Conexión
 ![Conexión](https://github.com/javinair/modulos_arduino/blob/master/Sensor_agua/res/conexion.jpg)
+
+### Librerías
+*No requiere librería externa*
+
+
+# Sensor de movimiento con mercurio (KY-027)
+
+### Modelo
+<img src="https://github.com/javinair/modulos_arduino/blob/master/Sensor_mov_mercurio_ky-027/res/sensor.jpg" height="200px">
+
+### Esquema
+Sensor | Arduino
+:-------------: |:-------------:
+G   | GND
+V|5V
+S|Pin digital 4
+L|Pin digital 7
+
+### Conexión
+![Conexión](https://github.com/javinair/modulos_arduino/blob/master/Sensor_mov_mercurio_ky-027/res/conexion.jpg)
 
 ### Librerías
 *No requiere librería externa*
