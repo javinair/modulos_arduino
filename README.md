@@ -1,6 +1,12 @@
 # Módulos Arduino
 Repositorio con ejemplos de cada uno de los módulos para Arduino
 
+## Listado
+
+[Sensor de temperatura](https://github.com/javinair/modulos_arduino#sensor-de-temperatura)
+
+
+
 ## Sensor de temperatura
 ### Modelo
 **DHT11**
