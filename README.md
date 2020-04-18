@@ -6,7 +6,7 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 - [Sensor de temperatura (DHT11)](https://github.com/javinair/modulos_arduino#sensor-de-temperatura-dht11)
 - [Sensor de agua](https://github.com/javinair/modulos_arduino#sensor-de-agua)
 - [Sensor de movimiento con mercurio (KY-027)](https://github.com/javinair/modulos_arduino#sensor-de-movimiento-con-mercurio-ky-027)
-- [Joystick (KY-023)](https://github.com/javinair/modulos_arduino#Joystick-ky-023
+- [Joystick (KY-023)](https://github.com/javinair/modulos_arduino#Joystick-ky-023)
 
 
 
@@ -86,7 +86,7 @@ L|Pin digital 4
 Sensor | Arduino
 :-------------: |:-------------:
 GND   | GND
-/+5V|5V
++5V|5V
 VRX|Pin analógico 0
 VRY|Pin analógico 1
 SW|Pin digital 2
