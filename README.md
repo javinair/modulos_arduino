@@ -3,12 +3,12 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 
 ## Listado
 
-[Sensor de temperatura](https://github.com/javinair/modulos_arduino#sensor-de-temperatura)
-[Sensor de agua](https://github.com/javinair/modulos_arduino#sensor-de-agua)
+- [Sensor de temperatura (DHT11)](https://github.com/javinair/modulos_arduino#sensor-de-temperatura-dht11)
+- [Sensor de agua](https://github.com/javinair/modulos_arduino#sensor-de-agua)
 
 
 
-## Sensor de temperatura (**DHT11**)
+# Sensor de temperatura (**DHT11**)
 
 ### Modelo
 <img src="https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/sensor.jpg" height="200px">
@@ -35,7 +35,7 @@ S      | Pin digital 2 |
 - [DHT sensor library v1.3.8](https://github.com/adafruit/DHT-sensor-library)
 
 
-## Sensor de agua
+# Sensor de agua
 
 ### Modelo
 <img src="https://github.com/javinair/modulos_arduino/blob/master/Sensor_agua/res/sensor.jpg" height="200px">
