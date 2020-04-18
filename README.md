@@ -7,10 +7,11 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 
 
 
-## Sensor de temperatura
+## Sensor de temperatura (**DHT11**)
+
 ### Modelo
-**DHT11**
 <img src="https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/sensor.jpg" height="200px">
+
 ### Esquema
 DHT11/22 (4 pines) | Arduino
 :-------------: |:-------------:
@@ -27,3 +28,7 @@ S      | Pin digital 2 |
 
 ### Conexión
 ![Conexión](https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/conexion.png)
+
+### Librerías
+- [Adafruit Unified Sensor v1.1.2](https://github.com/adafruit/Adafruit_Sensor)
+- [DHT sensor library v1.3.8](https://github.com/adafruit/DHT-sensor-library)
