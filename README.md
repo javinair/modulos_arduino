@@ -6,6 +6,7 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 - [Sensor de temperatura (DHT11)](https://github.com/javinair/modulos_arduino#sensor-de-temperatura-dht11)
 - [Sensor de agua](https://github.com/javinair/modulos_arduino#sensor-de-agua)
 - [Sensor de movimiento con mercurio (KY-027)](https://github.com/javinair/modulos_arduino#sensor-de-movimiento-con-mercurio-ky-027)
+- [Joystick (KY-023)](https://github.com/javinair/modulos_arduino#Joystick-ky-023
 
 
 
@@ -65,11 +66,33 @@ Sensor | Arduino
 :-------------: |:-------------:
 G   | GND
 V|5V
-S|Pin digital 4
-L|Pin digital 7
+S|Pin digital 7
+L|Pin digital 4
 
 ### Conexión
 ![Conexión](https://github.com/javinair/modulos_arduino/blob/master/Sensor_mov_mercurio_ky-027/res/conexion.jpg)
+
+### Librerías
+*No requiere librería externa*
+
+
+
+# Joystick (KY-023)
+
+### Modelo
+<img src="https://github.com/javinair/modulos_arduino/blob/master/Joystick/res/sensor.jpg" height="200px">
+
+### Esquema
+Sensor | Arduino
+:-------------: |:-------------:
+GND   | GND
+/+5V|5V
+VRX|Pin analógico 0
+VRY|Pin analógico 1
+SW|Pin digital 2
+
+### Conexión
+![Conexión](https://github.com/javinair/modulos_arduino/blob/master/Joystick/res/conexion.png)
 
 ### Librerías
 *No requiere librería externa*
