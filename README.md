@@ -4,7 +4,7 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 ## Sensor de temperatura
 ### Modelo
 **DHT11**
-![Sensor](https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/sensor.jpg "Sensor" =250x)
+![Sensor](https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/sensor.jpg =250x)
 ### Esquema
 DHT11/22 (4 pines) | Arduino
 :-------------: |:-------------:
@@ -20,4 +20,4 @@ S      | Pin digital 2 |
 \- |GND |
 
 ### Conexión
-![Conexión](https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/conexion.png "Conexión" =250x)
+![Conexión](https://github.com/javinair/modulos_arduino/blob/master/DHT11/res/conexion.png)
