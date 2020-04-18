@@ -4,6 +4,7 @@ Repositorio con ejemplos de cada uno de los módulos para Arduino
 ## Listado
 
 [Sensor de temperatura](https://github.com/javinair/modulos_arduino#sensor-de-temperatura)
+[Sensor de agua](https://github.com/javinair/modulos_arduino#sensor-de-agua)
 
 
 
@@ -32,3 +33,22 @@ S      | Pin digital 2 |
 ### Librerías
 - [Adafruit Unified Sensor v1.1.2](https://github.com/adafruit/Adafruit_Sensor)
 - [DHT sensor library v1.3.8](https://github.com/adafruit/DHT-sensor-library)
+
+
+## Sensor de agua
+
+### Modelo
+<img src="https://github.com/javinair/modulos_arduino/blob/master/Sensor_agua/res/sensor.jpg" height="200px">
+
+### Esquema
+Sensor | Arduino
+:-------------: |:-------------:
+S      | Pin analógico 0 |
+\+      | 5V|
+\- |GND |
+
+### Conexión
+![Conexión](https://github.com/javinair/modulos_arduino/blob/master/Sensor_agua/res/conexion.jpg)
+
+### Librerías
+*No requiere librería externa*
